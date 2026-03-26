@@ -25,6 +25,9 @@ Each benchmark contuously spawns batches of 16 zombies (one per type). It stops 
 | `benchmark-massive/` | Massive | `MassiveDisplay` + `ImageLayer` (ultra-batched) |
 | `benchmark-createjs/` | CreateJS | `StageGL` (WebGL) + 2D canvas HUD overlay |
 
+Note:
+The [HXMaker](https://github.com/rainyt/hxmaker) benchmark is not yet working.
+
 ---
 
 ## Running the Benchmarks
