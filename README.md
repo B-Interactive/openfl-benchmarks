@@ -1,4 +1,4 @@
-# Zombie Sprite Rendering Benchmarks
+# Sprite Rendering Benchmarks
 
 A collection of benchmarks that measure how many animated sprites can be rendered at 60fps across different Haxe and JavaScript rendering frameworks.
 
